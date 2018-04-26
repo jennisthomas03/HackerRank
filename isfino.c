@@ -2,6 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
+/* Jennis Thomas */
 int isfibo(long long int num)
 {
     long long int first=0,second=1,fib=0;
